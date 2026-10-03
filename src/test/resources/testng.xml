@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="demoprojectSuite" parallel="classes" thread-count="6">
+	<listeners>
+		<listener class-name="com.demoproject.listeners.TestListener"></listener>
+	</listeners>
+	<test name="demoprojectTest">
+		<classes>
+			<class name="com.demoproject.test.DummyClass"></class>
+			<class name="com.demoproject.test.DummyClass2"></class>
+			<class name="com.demoproject.test.LoginPageTest"></class>
+			<class name="com.demoproject.test.HomePageTest"></class>
+			<class name="com.demoproject.test.ApiTest"></class>
+		</classes>
+	</test>
+</suite>
