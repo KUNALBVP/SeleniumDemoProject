@@ -22,7 +22,7 @@ public class ApiTest {
 		ExtentManager.logStep("API Endpoint: " + endpoint);
 
 		// Step2: Send GET Request
-		ExtentManager.logStep("Sending the GET request to the API");
+		ExtentManager.logStep("Sending the GET request to API");
 		Response response = APIUtility.sendGETRequest(endpoint);
 
 		// Step3: Validate status Code
