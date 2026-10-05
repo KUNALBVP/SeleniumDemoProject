@@ -62,7 +62,7 @@ pipeline{
 				
 				<p><b>Build log is attached</b></p>
 				
-				<p><b>Extent Report: </b> <a href = "http://localhost:8080/job/SeleniumDemoProject_PipelineJob/HTML_20Extent_20Report/">Click Here </a></p>
+				<p><b>Extent Report: </b> <a href = "http://localhost:8080/job/SeleniumDemoProject_PipelineJob/HTML_20Report/">Click Here </a></p>
 				
 				<p>Best Regards, </p>
 				<p><b>Kunal SDET</b></p>
@@ -97,7 +97,7 @@ pipeline{
 				
 				<p><b>Please check the logs and take necessary actions </b></p>
 				
-				<p><b>Extent Report: </b> <a href = "http://localhost:8080/job/SeleniumDemoProject_PipelineJob/HTML_20Extent_20Report/">Click Here </a></p>
+				<p><b>Extent Report: </b> <a href = "http://localhost:8080/job/SeleniumDemoProject_PipelineJob/HTML_20Report/">Click Here </a></p>
 				
 				<p>Best Regards, </p>
 				<p><b>Kunal SDET</b></p>
